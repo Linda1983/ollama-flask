@@ -1,4 +1,4 @@
-# Mise en place du projet
+# Mise en place du projet  chez Linda
 
 1. Overture de VS Code au BON endroit ;)
     - `file > open folder`
